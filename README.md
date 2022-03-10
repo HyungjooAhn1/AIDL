@@ -1,2 +1,5 @@
 # AIDL
-220310
+
+## Week 2-1(220310)
+ - make repository
+ - upload code from colab
